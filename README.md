@@ -1,4 +1,4 @@
-# Full Stack Web Application
+# Sales Funnel using Golang backend, React frontend, and PostgreSQL database
 
 ## Prerequisites
 - Go 1.21+
